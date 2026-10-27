@@ -1,0 +1,12 @@
+.env
+.venv
+recievers.json
+senders.json
+email_body.json
+description.txt
+.mailer_state.json
+mailer.log
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
